@@ -13,3 +13,4 @@ data/processed/*
 
 # Virtual environments
 .venv
+.python-version
